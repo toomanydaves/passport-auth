@@ -1,0 +1,14 @@
+{
+  "name": "passport-auth",
+  "version": "0.0.1",
+  "description": "The purpose of this code is to provide a proof-of-concept for using [Passport](http://passportjs.org) as the authentication mechanism for an [Express](http://expressjs.com) backend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sean Jacke",
+  "dependencies": {
+    "express": "^4.13.3",
+    "passport": "^0.3.0"
+  }
+}
